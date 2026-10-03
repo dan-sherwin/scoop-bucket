@@ -1,18 +1,18 @@
 {
-  "version": "1.3.1",
-  "description": "Local-first structured log bus for development work.",
+  "version": "1.4.0",
+  "description": "Real-time log viewer for full-stack development across backend, CLI/TUI, Linux journald, browser, HTTP, and SDK records.",
   "homepage": "https://github.com/dan-sherwin/DevLogBus",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/dan-sherwin/DevLogBus/releases/download/v1.3.1/devlogbus_v1.3.1_windows_amd64.zip",
-      "hash": "2083823d0d706a4b9fb23682a1b5aef858781b3aeb9a74f95923c9099a69b545",
-      "extract_dir": "devlogbus_v1.3.1_windows_amd64"
+      "url": "https://github.com/dan-sherwin/DevLogBus/releases/download/v1.4.0/devlogbus_v1.4.0_windows_amd64.zip",
+      "hash": "dfcf21d5d4ccfd958e0c74d68b965f834008f975d102c6227c2994f988b9427f",
+      "extract_dir": "devlogbus_v1.4.0_windows_amd64"
     },
     "arm64": {
-      "url": "https://github.com/dan-sherwin/DevLogBus/releases/download/v1.3.1/devlogbus_v1.3.1_windows_arm64.zip",
-      "hash": "bb4dd613bb57195330ed6cad05d21bfe5b637c105cccba164d782b52a832f2db",
-      "extract_dir": "devlogbus_v1.3.1_windows_arm64"
+      "url": "https://github.com/dan-sherwin/DevLogBus/releases/download/v1.4.0/devlogbus_v1.4.0_windows_arm64.zip",
+      "hash": "2e35ab9004f4e1159716428a0940d3990b23d5573c7e4c0f26a187b2afcfb8df",
+      "extract_dir": "devlogbus_v1.4.0_windows_arm64"
     }
   },
   "bin": [
